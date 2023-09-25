@@ -1,0 +1,29 @@
+{
+  "perfil": [
+    {
+      "nombre": "Jessica Aguirre",
+      "email": "jessica@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "raul",
+      "email": "raul@gmail.com",
+      "id": "62ecb066-4b43-4494-b6d5-87c72c4dff78"
+    },
+    {
+      "nombre": "jose jose",
+      "email": "jose@gmail.com",
+      "id": "33c7a4d5-9d19-462d-aaf4-1714f45edb35"
+    },
+    {
+      "nombre": "ana",
+      "email": "ana@gmail.com",
+      "id": "5f7f18c0-0d36-4377-a353-7244d059967e"
+    },
+    {
+      "nombre": "sofi",
+      "email": "sofi@gmail.com",
+      "id": "ce9d4146-4315-447b-b75e-f87db9cd0d8c"
+    }
+  ]
+}
